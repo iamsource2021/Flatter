@@ -8,5 +8,6 @@ setup(name='flatter',
       author_email='eduardooa1980@gmail.com',
       license='MIT',
       include_package_data=True,
+      test_suite='nose2.collector.collector',
       install_requires=['underscore.py'],
       zip_safe=False)

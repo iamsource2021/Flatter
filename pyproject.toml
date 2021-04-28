@@ -2,14 +2,14 @@
 name = "flatter"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Eduardo <eduardooa1980@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 "underscore.py" = "^0.1.6"
-nose2 = "^0.10.0"
 
 [tool.poetry.dev-dependencies]
+nose2 = "^0.10.0"
 
 [build-system]
 requires = ["poetry>=0.12"]

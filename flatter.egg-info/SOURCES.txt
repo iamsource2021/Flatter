@@ -1,0 +1,9 @@
+README.rst
+pyproject.toml
+setup.py
+flatter.egg-info/PKG-INFO
+flatter.egg-info/SOURCES.txt
+flatter.egg-info/dependency_links.txt
+flatter.egg-info/not-zip-safe
+flatter.egg-info/requires.txt
+flatter.egg-info/top_level.txt

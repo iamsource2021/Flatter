@@ -1,5 +1,5 @@
 [[package]]
-category = "main"
+category = "dev"
 description = "Code coverage measurement for Python"
 name = "coverage"
 optional = false
@@ -10,7 +10,7 @@ version = "5.5"
 toml = ["toml"]
 
 [[package]]
-category = "main"
+category = "dev"
 description = "unittest2 with plugins, the succesor to nose"
 name = "nose2"
 optional = false
@@ -26,7 +26,7 @@ coverage_plugin = ["coverage (>=4.4.1)"]
 dev = ["Sphinx (>=1.6.5)", "sphinx-rtd-theme", "mock", "coverage"]
 
 [[package]]
-category = "main"
+category = "dev"
 description = "Python 2 and 3 compatibility utilities"
 name = "six"
 optional = false
@@ -42,7 +42,7 @@ python-versions = "*"
 version = "0.1.6"
 
 [metadata]
-content-hash = "c89ff0634cdb46b422ed9ffcc0777dc29d5bfc0e3f0225a20fc80fbf29eb39d6"
+content-hash = "4125509f21e00ff028a3bbf2bb370f3ac3bf360a63452bee576683e2a427ec7c"
 python-versions = "^3.8"
 
 [metadata.files]
