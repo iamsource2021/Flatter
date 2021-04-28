@@ -1,8 +1,8 @@
-# Flatter
-run this test::
-For Tests environments...
+Flatter
+================
 
-```sh
+run this test::
+
 ~/Flatter$ nose2 -v
 test_flatten_0 (tests.test_arrays.TestArrays) ... ok
 test_flatten_1 (tests.test_arrays.TestArrays) ... ok
@@ -44,4 +44,3 @@ Diff is 14658 characters long. Set self.maxDiff to None to see it. : invalid inp
 Ran 4 tests in 171.293s
 
 FAILED (failures=2)
-```
